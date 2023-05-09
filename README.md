@@ -1,4 +1,5 @@
 # lecture_X_JS_to_do_list  
+
 ![image](https://user-images.githubusercontent.com/113675674/218657499-47f92025-b765-41c6-8220-86cec0a7dfd7.png)  
 
 ## Описание задачи:  
